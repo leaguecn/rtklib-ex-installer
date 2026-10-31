@@ -3,8 +3,14 @@ rtklib-ex qt version installer, package via inno.
 
 ## build version
 
-+ [v2.5.0](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgCPRzAWh3vjRaoPuJ53ByJOAc9f6bBoJrtcEt-3RmFGGnA?e=i4q1X6), 2026.10.31
++ [v2.5.0(x64)](https://cumteducn-my.sharepoint.com/:f:/g/personal/liguinan_cumt_edu_cn/IgCPRzAWh3vjRaoPuJ53ByJOAc9f6bBoJrtcEt-3RmFGGnA?e=i4q1X6), 2026.10.31
+
+
 ## Screenshots
+
+
+<img alt="2026-10-31_190005.png" data-hpc="true" containertiming="hpc" src="https://github.com/leaguecn/rtklib-ex-installer/blob/main/imgs/2026-10-31_190005.png?raw=true" style="max-width: 100%;">
+
 
 ## more
 
